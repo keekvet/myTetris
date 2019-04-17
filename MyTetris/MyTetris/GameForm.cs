@@ -155,7 +155,9 @@ namespace MyTetris
 
         private void GameForm_FormClosing(object sender, FormClosingEventArgs e)
         {
+            timer1.Stop();
             mainSound.Stop();
         }
+
     }
 }

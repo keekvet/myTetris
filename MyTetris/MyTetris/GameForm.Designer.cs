@@ -30,13 +30,13 @@
         {
             this.components = new System.ComponentModel.Container();
             this.gameTable = new System.Windows.Forms.TableLayoutPanel();
+            this.label2 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.labelInfo = new System.Windows.Forms.Label();
             this.score = new System.Windows.Forms.Label();
             this.ggLabel = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.nextFigureField = new System.Windows.Forms.TableLayoutPanel();
-            this.label2 = new System.Windows.Forms.Label();
             this.colorDialog1 = new System.Windows.Forms.ColorDialog();
             this.colorDialog2 = new System.Windows.Forms.ColorDialog();
             this.colorDialog3 = new System.Windows.Forms.ColorDialog();
@@ -91,6 +91,15 @@
             this.gameTable.Size = new System.Drawing.Size(382, 780);
             this.gameTable.TabIndex = 0;
             this.gameTable.CellPaint += new System.Windows.Forms.TableLayoutCellPaintEventHandler(this.PixelDisp_CellPaint);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(3, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(29, 26);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "label2";
             // 
             // timer1
             // 
@@ -157,15 +166,6 @@
             this.nextFigureField.Size = new System.Drawing.Size(150, 150);
             this.nextFigureField.TabIndex = 5;
             this.nextFigureField.CellPaint += new System.Windows.Forms.TableLayoutCellPaintEventHandler(this.NextFigureField_CellPaint);
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(3, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(29, 26);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "label2";
             // 
             // label3
             // 
