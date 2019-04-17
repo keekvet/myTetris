@@ -1,0 +1,11 @@
+D:\programing\CSharp\MyTetris\MyTetris\bin\Debug\MyTetris.exe.config
+D:\programing\CSharp\MyTetris\MyTetris\bin\Debug\MyTetris.exe
+D:\programing\CSharp\MyTetris\MyTetris\bin\Debug\MyTetris.pdb
+D:\programing\CSharp\MyTetris\MyTetris\obj\Debug\MyTetris.csprojAssemblyReference.cache
+D:\programing\CSharp\MyTetris\MyTetris\obj\Debug\MyTetris.Form1.resources
+D:\programing\CSharp\MyTetris\MyTetris\obj\Debug\MyTetris.Properties.Resources.resources
+D:\programing\CSharp\MyTetris\MyTetris\obj\Debug\MyTetris.csproj.GenerateResource.cache
+D:\programing\CSharp\MyTetris\MyTetris\obj\Debug\MyTetris.csproj.CoreCompileInputs.cache
+D:\programing\CSharp\MyTetris\MyTetris\obj\Debug\MyTetris.exe
+D:\programing\CSharp\MyTetris\MyTetris\obj\Debug\MyTetris.pdb
+D:\programing\CSharp\MyTetris\MyTetris\obj\Debug\MyTetris.GameForm.resources
