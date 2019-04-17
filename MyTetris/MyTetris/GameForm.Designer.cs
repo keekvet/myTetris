@@ -88,7 +88,7 @@
             this.gameTable.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 4.761905F));
             this.gameTable.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 4.761905F));
             this.gameTable.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 4.761905F));
-            this.gameTable.Size = new System.Drawing.Size(382, 780);
+            this.gameTable.Size = new System.Drawing.Size(323, 600);
             this.gameTable.TabIndex = 0;
             this.gameTable.CellPaint += new System.Windows.Forms.TableLayoutCellPaintEventHandler(this.PixelDisp_CellPaint);
             // 
@@ -97,7 +97,7 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(3, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(29, 26);
+            this.label2.Size = new System.Drawing.Size(21, 26);
             this.label2.TabIndex = 0;
             this.label2.Text = "label2";
             // 
@@ -132,7 +132,7 @@
             this.ggLabel.ForeColor = System.Drawing.Color.Red;
             this.ggLabel.Location = new System.Drawing.Point(145, 38);
             this.ggLabel.Name = "ggLabel";
-            this.ggLabel.Size = new System.Drawing.Size(382, 781);
+            this.ggLabel.Size = new System.Drawing.Size(323, 600);
             this.ggLabel.TabIndex = 3;
             this.ggLabel.Text = "Game Over!";
             this.ggLabel.Visible = false;
@@ -182,7 +182,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.WindowFrame;
-            this.ClientSize = new System.Drawing.Size(730, 848);
+            this.ClientSize = new System.Drawing.Size(730, 674);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.nextFigureField);
             this.Controls.Add(this.label1);

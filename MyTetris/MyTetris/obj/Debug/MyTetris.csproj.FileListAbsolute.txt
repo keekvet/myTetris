@@ -17,3 +17,6 @@ C:\Users\Ihor\Documents\GitHub\myTetris\MyTetris\MyTetris\obj\Debug\MyTetris.csp
 C:\Users\Ihor\Documents\GitHub\myTetris\MyTetris\MyTetris\obj\Debug\MyTetris.csproj.CoreCompileInputs.cache
 C:\Users\Ihor\Documents\GitHub\myTetris\MyTetris\MyTetris\obj\Debug\MyTetris.exe
 C:\Users\Ihor\Documents\GitHub\myTetris\MyTetris\MyTetris\obj\Debug\MyTetris.pdb
+C:\Users\Ihor\Documents\GitHub\myTetris\MyTetris\MyTetris\bin\Debug\MyTetris.exe.config
+C:\Users\Ihor\Documents\GitHub\myTetris\MyTetris\MyTetris\bin\Debug\MyTetris.exe
+C:\Users\Ihor\Documents\GitHub\myTetris\MyTetris\MyTetris\bin\Debug\MyTetris.pdb
